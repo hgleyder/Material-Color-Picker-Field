@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "color-picker-field.css",
+	"sources": [
+		"../../../src/components/color-picker-field/color-picker-field.scss",
+		"../../../src/styles/_variables.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,KAAK,AAAC,CACJ,gBAAgB,CCFI,IAAY,CDGhC,KAAK,CCJI,IAAc,CDKvB,SAAS,CCHI,IAAI,CDIlB"
+}
